@@ -1,4 +1,5 @@
 # Sentiment_Analysis_DisneyPlus
+
 ![image](Disney_Plus.jpg)
 
 In this analysis project, we mainly focus on people's reaction of the releasing series called "The Mandalorian", the following story of the "StarWar"
