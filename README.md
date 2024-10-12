@@ -1,15 +1,15 @@
-# Sentiment_Analysis_DisneyPlus
+# Social Media Analysis of Disney Plus
 
 ![image](Disney_Plus.jpg)
 
-In this analysis project, we mainly focus on people's reaction of the releasing series called "The Mandalorian", the following story of the "StarWar"
-We obtain the resources from channel including Youtube, Twitter and Forum(Reddit).
-The following content is included in the analysis:
+This project is aiming at conducting a comprehensive analysis of Disney Plus from social media perspectives. The analysis has been done in the following sub-sectors: Real-time reaction according to the recent release of the Movie or series. Moreover, a sentiment analysis will be conducted from the text on Twitter, YouTube, and Reddit. On top of that, we will analyze the impact of influencers' opinions on the platform and offer feasible improvements to the streaming platform. 
+
+To be more specific, following tasks has been done in the project
 - Sentiment analysis(Finding out that in general people's reaction are positive, negative or neutral)
 - Word Bagging(Counting each word showing up times in each channel and print the top ten words showing most of times)
 - Word Cloud(Visualizing the counting words, the bigger the word is, the more times it shows up)
 - Word Tagging(The proportion of each type of words be mentioned, like people's name, location name or others.
-- Network Analysis(What is the relationship between users, for example who retweet whose messages)
+- Network Analysis(What is the relationship between users, influencers, for example who retweet whose messages)
 ![image](Disney_Plus_tableofcontent.jpg)
 
 This Project is written by Alexane Evrard, Carole Verger, Me, Chien Lin Huang, Federico Urena, Thierry Cloe.
